@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandra Bartnikiewicz
 - 🌱 I’m currently learning more about machine learning
-- 💞️ Project in progress: event reccomendation website
+- 💞️ Project in progress: event recommendation website
 
 Goodnight!
 
