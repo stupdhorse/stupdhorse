@@ -1,4 +1,5 @@
-Interested in web development
+Interested in web development and machine learning
+
 Project in progress: event recommendation website
 
 Goodnight!
