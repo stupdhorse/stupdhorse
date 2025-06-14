@@ -2,7 +2,7 @@ Interested in making things
 
 Project in progress: event recommendation website
 
-Goodnight!
+Dobranoc
 
 <!---
 stupdhorse/stupdhorse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
