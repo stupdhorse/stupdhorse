@@ -1,4 +1,4 @@
-Interested in web development and machine learning
+Interested in making things
 
 Project in progress: event recommendation website
 
