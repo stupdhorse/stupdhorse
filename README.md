@@ -1,4 +1,4 @@
-Interested in making things
+Interested in system design
 
 Project in progress: event recommendation website
 
